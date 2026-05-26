@@ -47,14 +47,14 @@ Built for developers who want **deep system visibility**.
 ---
 
 ## 📁 INSTALLATION
-bash
-https://github.com/defenderkingdom46-ctrl/angel-glitchers-cinefy
-cd project-cinefy-angels
-npm install
+'''bash
+-https://github.com/defenderkingdom46-ctrl/angel-glitchers-cinefy
+-cd project-cinefy-angels
+-npm install
 ---
-🧑‍💻 DEVELOPED BY
-⚡ ANGEL GLITCHERS ⚡
-"don’t guess APIs — reveal them."
+-🧑‍💻 DEVELOPED BY
+-⚡ ANGEL GLITCHERS ⚡
+-"don’t guess APIs — reveal them."
 ---
 ⚠️ DISCLAIMER
 
