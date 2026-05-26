@@ -59,4 +59,4 @@ npm install
 This tool is intended for educational and research purposes only.
 Use responsibly and respect all legal boundaries.
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,50:000000,100:00ff00&height=120&section=footer&text=GLITCH%20MODE%20ACTIVE&fontSize=30&fontColor=00ff00"/> </div> ```
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,50:000000,100:00ff00&height=120&section=footer&text=GLITCH%20MODE%20ACTIVE&fontSize=30&fontColor=00ff00"/> </div> 
