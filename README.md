@@ -48,12 +48,14 @@ Built for developers who want **deep system visibility**.
 
 ## 📁 INSTALLATION
 bash
-git clone https://github.com/your-username/project-cinefy-angels.git
+https://github.com/defenderkingdom46-ctrl/angel-glitchers-cinefy
 cd project-cinefy-angels
 npm install
+---
 🧑‍💻 DEVELOPED BY
 ⚡ ANGEL GLITCHERS ⚡
-"We don’t guess APIs — we reveal them."
+"don’t guess APIs — reveal them."
+---
 ⚠️ DISCLAIMER
 
 This tool is intended for educational and research purposes only.
