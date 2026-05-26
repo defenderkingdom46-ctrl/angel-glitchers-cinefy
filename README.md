@@ -45,6 +45,8 @@ Built for developers who want **deep system visibility**.
 - 🚀 High-speed async processing
 - 🚀designed for local run
 - 💀very powerful
+- 💀not only api, extract the whole website in seconds.very powerful
+- 📡 full html extracting
 
 ---
 
