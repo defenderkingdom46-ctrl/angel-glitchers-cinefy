@@ -40,22 +40,34 @@ Built for developers who want **deep system visibility**.
 - 🧠 Smart crawling engine  
 - ⚡ Lazy-load scroll detection system  
 - 📡 Network request mapping  
-- 📊 Auto report generator (JSON export)  
+- 📊 Auto report generator and download
 - 💀 Stealth scanning mode  
-- 🚀 High-speed async processing  
+- 🚀 High-speed async processing
+- 🚀designed for local run
+- 💀very powerful
 
 ---
 
 ## 📁 INSTALLATION
-'''bash
--https://github.com/defenderkingdom46-ctrl/angel-glitchers-cinefy
--cd project-cinefy-angels
--npm install
+
+- https://github.com/defenderkingdom46-ctrl/angel-glitchers-cinefy
+- cd project-cinefy-angels
+- npm install
+- node index.js
+- run localhost:3000 in browser
+
+
 ---
+
+
 -🧑‍💻 DEVELOPED BY
 -⚡ ANGEL GLITCHERS ⚡
 -"don’t guess APIs — reveal them."
+
+
 ---
+
+
 ⚠️ DISCLAIMER
 
 This tool is intended for educational and research purposes only.
