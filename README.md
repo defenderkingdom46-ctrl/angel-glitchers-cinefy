@@ -50,7 +50,7 @@ Built for developers who want **deep system visibility**.
 
 ## 📁 INSTALLATION
 
-- https://github.com/defenderkingdom46-ctrl/angel-glitchers-cinefy
+- git clone https://github.com/defenderkingdom46-ctrl/angel-glitchers-cinefy
 - cd project-cinefy-angels
 - npm install
 - node index.js
