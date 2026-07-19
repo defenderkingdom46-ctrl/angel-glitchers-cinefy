@@ -1,95 +1,70 @@
 <div align="center">
-  <!-- Local Poster Image as requested -->
-  <img src="images/image1.png" alt="CINEFy Pro Banner" width="100%" style="border-radius: 16px; border: 2px solid #00ff00; box-shadow: 0 0 30px rgba(0, 255, 0, 0.25); margin-bottom: 24px;">
-  
-  <h1>⌁ a minimal intelligence engine that sees what browsers hide ⌁</h1>
-  
-  <br>
-  
-  <!-- Badges -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,50:000000,100:00ff00&height=260&section=header&text=CINEFy%20PRO&fontSize=80&fontColor=00ff00&animation=twinkling&fontAlignY=35&desc=Advanced%20Intelligence%20Engine%20%7C%20by%20Angel%20GLITCHERS&descAlignY=55&descSize=22" width="100%" alt="Header Wave" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="images/image1.png" alt="CINEFy Pro Interface" width="92%" style="border-radius: 20px; border: 3px solid #00ff00; box-shadow: 0 0 60px rgba(0, 255, 0, 0.35); margin-bottom: 25px;" />
+  <h1>⌁ A minimal intelligence engine that sees what browsers hide ⌁</h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=1200&color=00FF00&center=true&vCenter=true&width=850&height=60&lines=⚡+HIDDEN+API+DETECTION+ENGINE;🧠+SMART+LAZY+LOADING+SCANNER;🔍+ENDPOINT+DISCOVERY+SYSTEM;💀+ANGEL+GLITCHERS+MODE+ACTIVE" alt="Typing Animation" />
+</div>
+
+<br>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-00ff00?style=for-the-badge&logo=git&logoColor=black&labelColor=000000" alt="Version">
   <img src="https://img.shields.io/badge/Status-ACTIVE-00ff00?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=000000" alt="Status">
-  <img src="https://img.shields.io/badge/Node.js-18+-00ff00?style=for-the-badge&logo=node.js&logoColor=black&labelColor=000000" alt="Node.js">
+  <img src="https://img.shields.io/badge/Runtime-Node.js_18+-00ff00?style=for-the-badge&logo=node.js&logoColor=black&labelColor=000000" alt="Node.js">
+  <img src="https://img.shields.io/badge/Language-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff00&labelColor=00ff00" alt="JavaScript">
   <img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=00ff00" alt="License">
-  
-  <br><br>
-  
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=60&lines=⚡+HIDDEN+API+DETECTION+ENGINE;🧠+SMART+LAZY+LOADING+SCANNER;🔍+ENDPOINT+DISCOVERY+SYSTEM;💀+ANGEL+GLITCHERS+MODE+ACTIVE" alt="Typing Animation">
-</div>
+</p>
+
+---
+
+### ◈ WHAT IS CINEFY PRO?
+
+**CINEFy Pro** is a lightweight, blazing-fast JavaScript intelligence engine designed to reveal what the browser hides. It automatically discovers hidden API endpoints, maps complex network patterns, intelligently scrolls through lazy-loaded content, and extracts entire websites in seconds. 
+
+> 🔍 *"Don't guess APIs — reveal them."*
+
+No encryption. No obfuscation. No magic. Just clean, transparent, and highly optimized code built for developers who demand deep system visibility.
+
+---
+
+### ⚡ CORE CAPABILITIES
+
+| 🛠 Feature | 📖 Description |
+| :--- | :--- |
+| 🔍 **API Discovery** | Automatically finds hidden, undocumented, and dynamic endpoints. |
+| 🧠 **Smart Crawling** | Follows network patterns & DOM changes like a human — but exponentially faster. |
+| 📜 **Lazy-Load Scanner** | Intelligently triggers & captures dynamically loaded content on scroll. |
+| 📡 **Network Mapping** | Visualizes & logs every single request, header, and payload. |
+| 💾 **Full HTML Extraction** | Pulls the complete rendered DOM of any target in seconds. |
+| 📊 **Auto Reports** | Generates clean, structured, and downloadable analysis reports. |
+| 👻 **Stealth Mode** | Operates silently without triggering standard browser anti-bot detectors. |
+| 🚀 **Async Architecture** | Non-blocking, high-concurrency processing for maximum speed & stability. |
 
 <br>
 
-## ◈ what is CINEFy Pro?
+> [!IMPORTANT]
+> 💚 **THE HIGHLIGHT:** CINEFy Pro doesn't just find APIs. It extracts the *entire rendered website* in seconds — every endpoint, every asset, every hidden route. All of it. Cleanly.
 
-**CINEFy Pro** is a lightweight, blazing-fast JavaScript intelligence engine that reveals what the browser hides.  
-It discovers hidden API endpoints, maps network patterns, scrolls through lazy-loaded content, and extracts entire websites in seconds — no encryption, no obfuscation, no magic. Just clean, readable code that respects developers.
+---
 
-> *"don't guess APIs — reveal them."*
+### 📦 GET STARTED
 
-<br>
-
-## ◈ watch it work
-*the silent eye in action — finding APIs, extracting sites, mapping networks.*
-
-<div align="center">
-  ⚡ <b>find hidden APIs</b> &nbsp;&nbsp;•&nbsp;&nbsp; 🧠 <b>smart crawling</b> &nbsp;&nbsp;•&nbsp;&nbsp; 📡 <b>network mapping</b> &nbsp;&nbsp;•&nbsp;&nbsp; 💾 <b>full HTML extraction</b>
-</div>
-
-<br>
-
-## ◈ core capabilities
-
-| Icon | Capability | Description |
-| :---: | :--- | :--- |
-| 🔍 | **API Discovery** | Find hidden, undocumented endpoints automatically. |
-| 🧠 | **Smart Crawling** | Follows network patterns like a human — but faster. |
-| ⚡ | **Instant Extraction** | Pulls full HTML of any website in seconds. |
-| 📡 | **Network Mapping** | Visualizes every request the page makes. |
-| 💾 | **Auto Reports** | Clean, downloadable reports generated on demand. |
-| 👻 | **Stealth Mode** | Runs silently without triggering browser detectors. |
-
-<br>
-
-> 💚 **THE HIGHLIGHT** → CINEFy Pro doesn't just find APIs. It extracts the *whole website* in seconds — every endpoint, every asset, every hidden route. All of it. Cleanly.
-
-<br>
-
-## ◈ get started
-
-Ready to reveal the hidden? Run the following commands in your terminal:
+CINEFy Pro is optimized for **local execution**. No cloud dependencies, no telemetry. Run it directly on your machine:
 
 ```bash
-git clone https://github.com/defenderkingdom46-ctrl/angel-glitchers-cinefy
+# 1. Clone the repository
+git clone https://github.com/defenderkingdom46-ctrl/angel-glitchers-cinefy.git
+
+# 2. Navigate into the directory
 cd project-cinefy-angels
+
+# 3. Install dependencies
 npm install
+
+# 4. Launch the intelligence engine
 node index.js
-
-
-Then open your browser and navigate to → http://localhost:3000
-<br>
-
-◈ meet who made it
-Crafted with care, coffee, and curiosity by Angel GLITCHERS.
-A small team that believes tools should be transparent, readable, and kind to developers.
-<br>
-
-💚 for developers 💚
-No encryption.
-No encoding.
-No hidden layers.
-Just honest code you can read, learn from, and build upon.
-Because the best tools are the ones you can understand.
-<br>
-
-⚠️ disclaimer
-This tool is intended for educational and research purposes only.
-Use responsibly. Respect legal boundaries. Respect other people's systems.
-<br>
-<br>
-
-<div align="center">
-<sub>built with 💚 by <b>Angel GLITCHERS</b> · <b>CINEFy Pro</b> · 2026</sub>
-<br><br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,50:000000,100:00ff00&height=120&section=footer&text=GLITCH%20MODE%20ACTIVE&fontSize=30&fontColor=00ff00" width="100%" alt="Footer Banner">
-</div>
