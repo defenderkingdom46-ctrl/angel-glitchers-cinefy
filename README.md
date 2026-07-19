@@ -48,7 +48,8 @@ No encryption. No obfuscation. No magic. Just clean, transparent, and highly opt
 <br>
 
 > [!IMPORTANT]
-> 💚 **THE HIGHLIGHT:** CINEFy Pro doesn't just find APIs. It extracts the *entire rendered website* in seconds — every endpoint, every asset, every hidden route. All of it. Cleanly.
+> 💚 **GIVEN FREE WITH LOVE:** CINEFy PRO is completely given **FREE** for the eveloper community by us. we are from SRI LANKA. and i am still a beginner so it may have problems.
+> SINHALA:: Api "jaale neweyi" 
 
 ---
 
@@ -59,7 +60,7 @@ No encryption. No obfuscation. No magic. Just clean, transparent, and highly opt
 ### 💡 Open & Unlocked
 
 > [!IMPORTANT]
-> **Zero Encryption • Zero Encoding**
+> **💚Zero Encryption • Zero Encoding💚**
 >
 > This source code is intentionally kept in plain text. No hidden layers, no complex obfustication. Built from the ground up to be completely transparent, readable, and easy to study.
 
