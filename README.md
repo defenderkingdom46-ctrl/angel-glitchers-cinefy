@@ -90,6 +90,15 @@ npm install
 node index.js
 ```
 
-**CONTACT ME*
+*CONTACT ME*
 ```bash
 94706000390
+```
+
+*SINHALEN AHAGANIN*
+```bash
+API JAALE NEWYI AAYI KIWWA
+```
+
+```bash
+GATHTHANM CREDIT EHEMA APITATH DIPAN
