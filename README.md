@@ -52,6 +52,25 @@ No encryption. No obfuscation. No magic. Just clean, transparent, and highly opt
 
 ---
 
+---
+
+<div align="center">
+
+### 💡 Open & Unlocked
+
+> [!IMPORTANT]
+> **Zero Encryption • Zero Encoding**
+>
+> This source code is intentionally kept in plain text. No hidden layers, no complex obfustication. Built from the ground up to be completely transparent, readable, and easy to study.
+
+*Built with ❤️ for the next generation of developers, by a beginner who gets it.*
+
+### 🛠️ Developed by **Angel GLITCHERS**
+
+</div>
+
+---
+
 ### 📦 GET STARTED
 
 CINEFy Pro is optimized for **local execution**. No cloud dependencies, no telemetry. Run it directly on your machine:
