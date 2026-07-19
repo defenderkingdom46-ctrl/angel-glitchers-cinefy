@@ -92,7 +92,7 @@ node index.js
 
 *CONTACT ME*
 ```bash
-94706000390
+binduwayi haththa pahayi pol gediyayi wade dekayi
 ```
 
 *SINHALEN AHAGANIN*
