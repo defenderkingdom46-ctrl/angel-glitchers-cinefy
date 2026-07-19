@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="images/image1.png" alt="CINEFy Pro Interface" width="92%" style="border-radius: 20px; border: 3px solid #00ff00; box-shadow: 0 0 60px rgba(0, 255, 0, 0.35); margin-bottom: 25px;" />
-  <h1>⌁ A minimal intelligence engine that sees what browsers hide ⌁</h1>
+  <h1>⌁ API FINDER AND SOURCE CODE EXTRCTOR ⌁</h1>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=1200&color=00FF00&center=true&vCenter=true&width=850&height=60&lines=⚡+HIDDEN+API+DETECTION+ENGINE;🧠+SMART+LAZY+LOADING+SCANNER;🔍+ENDPOINT+DISCOVERY+SYSTEM;💀+ANGEL+GLITCHERS+MODE+ACTIVE" alt="Typing Animation" />
 </div>
 
@@ -88,3 +88,8 @@ npm install
 
 # 4. Launch the intelligence engine
 node index.js
+```
+
+**CONTACT ME*
+```bash
+94706000390
